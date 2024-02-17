@@ -1,0 +1,16 @@
+{
+  "name": "nirzon-utils",
+  "version": "1.0.0",
+  "description": "knick knacks for everyday development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "utilities",
+    "testing",
+    "educational"
+  ],
+  "author": "Nirzon Taru Karmakar",
+  "license": "ISC"
+}
